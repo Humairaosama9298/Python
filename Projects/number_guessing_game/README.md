@@ -1,6 +1,5 @@
 # 🎯 Number Guessing Game 🎲
 
-## 📝 Overview
 This is a simple number guessing game implemented in Python. The program randomly selects a number between 1 and 100, and the player has 7 attempts to guess it correctly.
 
 ## 🚀 How to Play
@@ -13,8 +12,8 @@ This is a simple number guessing game implemented in Python. The program randoml
 5. If you fail to guess the number within 7 attempts, the game will reveal the correct number. 😢
 
 
-## 🛠 Installation & Running the Game
-To play the game, follow these steps:
+## 🛠 Installation 
+Ffollow these steps:
 
 ### 1️⃣ Install Python (if not installed)
 Download and install Python from the official website:
