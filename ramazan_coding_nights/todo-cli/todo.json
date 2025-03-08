@@ -1,0 +1,22 @@
+[
+    {
+        "task": "Wakeup Early in the morning",
+        "done": false
+    },
+    {
+        "task": "Drink water",
+        "done": false
+    },
+    {
+        "task": "perfom namaz and recite Quran",
+        "done": true
+    },
+    {
+        "task": "Take breakfast with my child ",
+        "done": false
+    },
+    {
+        "task": "cooking for lunch",
+        "done": false
+    }
+]
