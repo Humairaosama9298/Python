@@ -1,10 +1,10 @@
 import random
 
-print("Welcome to the game,this is a number guessing game! \n You got 5 attempt to guess the number between 50 to 100, Lets start the game.")
+print("Welcome to the game,this is a number guessing game! \n You got 7 attempt to guess the number between 1 to 100, Lets start the game.")
 
 number_to_guess = random.randrange(1, 100)
 
-chances:int = 5 
+chances:int = 7 
 
 guess_counter = 0
 
