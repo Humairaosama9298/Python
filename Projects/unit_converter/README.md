@@ -16,7 +16,7 @@ This is a simple **Unit Converter** application built using **Streamlit**. It al
 
 ## Installation
 To run this application, you need to have **Python** installed. If you haven't installed Python yet, you can download it from:
-[Python Official Website](https://www.python.org/downloads/)
+[Python Download](https://www.python.org/downloads/)
 
 Next, install **Streamlit** using pip:
 ```sh
@@ -28,7 +28,7 @@ pip install streamlit
 2. Open a terminal/command prompt and navigate to the project directory.
 3. Run the following command:
 ```sh
-streamlit run app.py
+streamlit run unit_converter.py
 ```
 4. The app will open in your default web browser.
 
