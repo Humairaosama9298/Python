@@ -14,7 +14,7 @@ A simple and interactive password generator built with **Streamlit** and **Pytho
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Humairaosama9298/password-generator
+   git clone (https://github.com/Humairaosama9298/Python/tree/main/ramazan_coding_nights/password_generator)
    cd password-generator   
    ```
 2. Initialize the project with **UV**:
