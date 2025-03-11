@@ -49,4 +49,4 @@ streamlit run app.py
 ## 👩‍💻 Author
 Developed by [Humaira Osama](https://github.com/Humairaosama9298) with 💖
 
-Feel free to contribute or report any issues on the [GitHub repository](https://github.com/Humairaosama9298).
+Feel free to contribute or report any issues on the [GitHub repository](https://github.com/Humairaosama9298/Python/tree/main/Projects/password_generator_and_strength_checker).
